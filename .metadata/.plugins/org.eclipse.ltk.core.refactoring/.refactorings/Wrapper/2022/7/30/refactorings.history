@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.globallogic.Wrapper.Wrapper&apos; to &apos;MyByte&apos;&#x0D;&#x0A;- Original project: &apos;Wrapper&apos;&#x0D;&#x0A;- Original element: &apos;com.globallogic.Wrapper.Wrapper&apos;&#x0D;&#x0A;- Renamed element: &apos;com.globallogic.Wrapper.MyByte&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Wrapper&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.globallogic.Wrapper{Wrapper.java[Wrapper" matchStrategy="1" name="MyByte" qualified="false" references="true" similarDeclarations="false" stamp="1658128609256" textual="false" version="1.0"/>
+</session>
